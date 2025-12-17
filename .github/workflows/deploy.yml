@@ -6,7 +6,7 @@ on:
       - main
 
 
-# Grant permission to push to Github Pages
+# Grant permission to push to GitHub Pages
 permissions:
   contents: write
   pages: write
